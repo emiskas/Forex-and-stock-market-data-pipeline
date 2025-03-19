@@ -1,0 +1,1 @@
+# Forex-and-stock-market-data-pipeline
